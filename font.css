@@ -1,0 +1,10 @@
+
+@font-face {
+font-family: avenir;
+src: url(/avenir.otf);
+}
+
+
+h1 {
+font-family: avenir, Helvetica, Arial, sans-serif;
+}
